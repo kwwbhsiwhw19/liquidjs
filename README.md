@@ -1,4 +1,4 @@
-# liquidjs
+0x4c416e27e7653c64b05fe329a6c2ad8cbb611b02# liquidjs
 [![npm version](https://img.shields.io/npm/v/liquidjs.svg?logo=npm&style=flat-square)](https://www.npmjs.org/package/liquidjs)
 [![npm downloads](https://img.shields.io/npm/dm/liquidjs.svg?style=flat-square)](https://www.npmjs.org/package/liquidjs)
 [![Coverage](https://img.shields.io/coveralls/harttle/liquidjs.svg?style=flat-square)](https://coveralls.io/github/harttle/liquidjs?branch=master)
